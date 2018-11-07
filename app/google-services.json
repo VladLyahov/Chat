@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "352544068209",
+    "firebase_url": "https://chat-8a95b.firebaseio.com",
+    "project_id": "chat-8a95b",
+    "storage_bucket": "chat-8a95b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352544068209:android:af2cfe473279e2db",
+        "android_client_info": {
+          "package_name": "com.example.vlad.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352544068209-87th79regpf9ci66bak33htojb62j57a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vlad.chat",
+            "certificate_hash": "e5293f70a930f3e98f490ebec1cde4b04c96f0dc"
+          }
+        },
+        {
+          "client_id": "352544068209-g23285se347vpq8ouqftgsg38es8u6kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Rk2e0BiaAWdIo6J49JF8ebGGtR6n_Kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352544068209-g23285se347vpq8ouqftgsg38es8u6kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
